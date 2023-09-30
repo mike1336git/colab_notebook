@@ -10,5 +10,5 @@
 
 (002) <a href="https://colab.research.google.com/github/mike1336git/colab_notebook/blob/main/with_js/js002_wavePacketQED1D.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>js001_ArMD2D.ipynb <br>
+</a>js002_wavePacketQED1D.ipynb <br>
 
