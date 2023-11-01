@@ -184,5 +184,17 @@
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a> js044_LiHMoleculeLDA3D.ipynb <br>
 
+(045) <a href="https://colab.research.google.com/github/mike1336git/colab_notebook/blob/main/with_js/js045_gravityRLG2D.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> js045_gravityRLG2D.ipynb <br>
+
+(046) <a href="https://colab.research.google.com/github/mike1336git/colab_notebook/blob/main/with_js/js046_vortexRLG2D.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> js046_vortexRLG2D.ipynb <br>
+
+(047) <a href="https://colab.research.google.com/github/mike1336git/colab_notebook/blob/main/with_js/js047_shearFlowRLG2D.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> js047_shearFlowRLG2D.ipynb <br>
+
 
 <br>
