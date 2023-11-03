@@ -196,5 +196,17 @@
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a> js047_shearFlowRLG2D.ipynb <br>
 
+(048) <a href="https://colab.research.google.com/github/mike1336git/colab_notebook/blob/main/with_js/js048_windTunnelRLG2D.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> js048_windTunnelRLG2D.ipynb <br>
+
+(049) <a href="https://colab.research.google.com/github/mike1336git/colab_notebook/blob/main/with_js/js049_waveOpticsFDTD2D.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> js049_waveOpticsFDTD2D.ipynb <br>
+
+(050) <a href="https://colab.research.google.com/github/mike1336git/colab_notebook/blob/main/with_js/js050_currentFDTD2D.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> js050_currentFDTD2D.ipynb <br>
+
 
 <br>
