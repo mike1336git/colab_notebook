@@ -332,4 +332,45 @@
 </a> js080_phaseSeparationLBD2Q9.ipynb <br>
 <br>
 
+(081) <a href="https://colab.research.google.com/github/mike1336git/colab_notebook/blob/main/with_js/js081_surfaceLBD2Q9.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> js081_surfaceLBD2Q9.ipynb <br>
+
+(082) <a href="https://colab.research.google.com/github/mike1336git/colab_notebook/blob/main/with_js/js082_infectionMCS2D.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> js082_infectionMCS2D.ipynb <br>
+
+(083) <a href="https://colab.research.google.com/github/mike1336git/colab_notebook/blob/main/with_js/js083_adatomKMC2D.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> js083_adatomKMC2D.ipynb <br>
+
+(084) <a href="https://colab.research.google.com/github/mike1336git/colab_notebook/blob/main/with_js/js084_adatomFastKMC2D.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> js084_adatomFastKMC2D.ipynb <br>
+
+(085) <a href="https://colab.research.google.com/github/mike1336git/colab_notebook/blob/main/with_js/js085_adatomFasterKMC2D.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> js085_adatomFasterKMC2D.ipynb <br>
+
+(086) <a href="https://colab.research.google.com/github/mike1336git/colab_notebook/blob/main/with_js/js086_crystalGrowthKMC2D.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> js086_crystalGrowthKMC2D.ipynb <br>
+
+(087) <a href="https://colab.research.google.com/github/mike1336git/colab_notebook/blob/main/with_js/js087_heteroCrystalGrowthKMC2D.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> js087_heteroCrystalGrowthKMC2D.ipynb <br>
+
+(088) <a href="https://colab.research.google.com/github/mike1336git/colab_notebook/blob/main/with_js/js088_jetDSMC2D.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> js088_jetDSMC2D.ipynb <br>
+
+(089) <a href="https://colab.research.google.com/github/mike1336git/colab_notebook/blob/main/with_js/js089_waterFlowMAC2D.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> js089_waterFlowMAC2D.ipynb <br>
+
+(090) <a href="https://colab.research.google.com/github/mike1336git/colab_notebook/blob/main/with_js/js090_turbulenceMAC2D.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> js090_turbulenceMAC2D.ipynb <br>
+<br>
+
 <br>
