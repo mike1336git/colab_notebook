@@ -373,4 +373,63 @@
 </a> js090_turbulenceMAC2D.ipynb <br>
 <br>
 
+(091) <a href="https://colab.research.google.com/github/mike1336git/colab_notebook/blob/main/with_js/js091_ensembleSCMD3D.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> js091_ensembleSCMD3D.ipynb <br>
+
+(092) <a href="https://colab.research.google.com/github/mike1336git/colab_notebook/blob/main/with_js/js092_LiLikeAtomLSD3D.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> js092_LiLikeAtomLSD3D.ipynb <br>
+
+(093) <a href="https://colab.research.google.com/github/mike1336git/colab_notebook/blob/main/with_js/js093_electronQED3D.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> js093_electronQED3D.ipynb <br>
+
+(094) <a href="https://colab.research.google.com/github/mike1336git/colab_notebook/blob/main/with_js/js094_alkaliAtomECPLDA3D.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> js094_alkaliAtomECPLDA3D.ipynb <br>
+
+(095) <a href="https://colab.research.google.com/github/mike1336git/colab_notebook/blob/main/with_js/js095_thirdPeriodAtomLDA3D.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> js095_thirdPeriodAtomLDA3D.ipynb <br>
+
+(096) <a href="https://colab.research.google.com/github/mike1336git/colab_notebook/blob/main/with_js/js096_H2MoleculeDMC3D.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> js096_H2MoleculeDMC3D.ipynb <br>
+
+(097) <a href="https://colab.research.google.com/github/mike1336git/colab_notebook/blob/main/with_js/js097_HeineAbarenkovPLDA3D.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> js097_HeineAbarenkovPLDA3D.ipynb <br>
+
+(098) <a href="https://colab.research.google.com/github/mike1336git/colab_notebook/blob/main/with_js/js098_electronsTDKS1D.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> js098_electronsTDKS1D.ipynb <br>
+
+(099) <a href="https://colab.research.google.com/github/mike1336git/colab_notebook/blob/main/with_js/js099_electronsTDKS2D.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> js099_electronsTDKS2D.ipynb <br>
+
+(100) <a href="https://colab.research.google.com/github/mike1336git/colab_notebook/blob/main/with_js/js100_electronsTDKS3D.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> js100_electronsTDKS3D.ipynb <br>
+<br>
+
+(101) <a href="https://colab.research.google.com/github/mike1336git/colab_notebook/blob/main/with_js/js101_astroObjectsD2D.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> js101_astroObjectsD2D.ipynb <br>
+
+(102) <a href="https://colab.research.google.com/github/mike1336git/colab_notebook/blob/main/with_js/js102_birdsEyeViewMAC2D.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> js102_birdsEyeViewMAC2D.ipynb <br>
+
+(103) <a href="https://colab.research.google.com/github/mike1336git/colab_notebook/blob/main/with_js/js103_solveDiracEquation1D.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> js103_solveDiracEquation1D.ipynb <br>
+
+(104) <a href="https://colab.research.google.com/github/mike1336git/colab_notebook/blob/main/with_js/js104_airFlowLB3D19V.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> js104_airFlowLB3D19V.ipynb <br>
+
+<br>
+
 <br>
