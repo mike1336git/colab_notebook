@@ -430,6 +430,51 @@
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a> js104_airFlowLB3D19V.ipynb <br>
 
+(105) <a href="https://colab.research.google.com/github/mike1336git/colab_notebook/blob/main/with_js/js105_airFlowLB3D15V.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> js105_airFlowLB3D15V.ipynb <br>
+
+(106) <a href="https://colab.research.google.com/github/mike1336git/colab_notebook/blob/main/with_js/js106_airFlowLB3D27V.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> js106_airFlowLB3D27V.ipynb <br>
+
+(107) <a href="https://colab.research.google.com/github/mike1336git/colab_notebook/blob/main/with_js/js107_RabiOscillationQED3D.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> js107_RabiOscillationQED3D.ipynb <br>
+
+(108) <a href="https://colab.research.google.com/github/mike1336git/colab_notebook/blob/main/with_js/js108_grainGrowthMMD2D.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> js108_grainGrowthMMD2D.ipynb <br>
+
+(109) <a href="https://colab.research.google.com/github/mike1336git/colab_notebook/blob/main/with_js/js109_electronPQM1D.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> js109_electronPQM1D.ipynb <br>
+
+(110) <a href="https://colab.research.google.com/github/mike1336git/colab_notebook/blob/main/with_js/js110_electronPQM2D.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> js110_electronPQM2D.ipynb <br>
+<br>
+
+(111) <a href="https://colab.research.google.com/github/mike1336git/colab_notebook/blob/main/with_js/js111_electronPQM3D.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> js111_electronPQM3D.ipynb <br>
+
+(112) <a href="https://colab.research.google.com/github/mike1336git/colab_notebook/blob/main/with_js/js112_SIRinfectionModel.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> js112_SIRinfectionModel.ipynb <br>
+
+(113) <a href="https://colab.research.google.com/github/mike1336git/colab_notebook/blob/main/with_js/js113_SEIRinfectionModelDEQ.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> js113_SEIRinfectionModelDEQ.ipynb <br>
+
+(114) <a href="https://colab.research.google.com/github/mike1336git/colab_notebook/blob/main/with_js/js114_SEIRinfectionMCS2D.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> js114_SEIRinfectionMCS2D.ipynb <br>
+
+(115) <a href="https://colab.research.google.com/github/mike1336git/colab_notebook/blob/main/with_js/js115_maskEffectMSC2D.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> js115_maskEffectMSC2D.ipynb<br>
+
 <br>
 
 <br>
